@@ -40,8 +40,7 @@ Button-Animation/
 
 ## 📸 Demo Preview
 
-> *(Add a screenshot or screen recording of the animation if possible)*
-
+> [visit my project](https://krushna-chandra.github.io/Button-animation/)
 ## 📌 Use Cases
 
 * Beginner CSS animation projects
