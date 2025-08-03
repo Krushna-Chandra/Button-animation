@@ -13,11 +13,12 @@ A simple and visually appealing **HTML + CSS** based animated button. Ideal for 
 
 ```
 ## 📁 Project Structure
+```
 Button-Animation/
 ├── index.html     # Main file with the animated button
 ├── style.css      # Contains all the animation and button styling
 └── README.md      # Project documentation
-
+```
 ````
 
 ## 🛠️ Built With
