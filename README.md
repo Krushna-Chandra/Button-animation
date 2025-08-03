@@ -1,5 +1,4 @@
 
-```markdown
 # 🎯 Button Animation Project
 
 A simple and visually appealing **HTML + CSS** based animated button. Ideal for learning and practicing UI/UX design transitions and hover effects.
@@ -11,7 +10,6 @@ A simple and visually appealing **HTML + CSS** based animated button. Ideal for 
 - 📱 Fully responsive design
 - 💡 Easy to customize (text, color, size)
 
-```
 ## 📁 Project Structure
 ```
 Button-Animation/
@@ -19,7 +17,6 @@ Button-Animation/
 ├── style.css      # Contains all the animation and button styling
 └── README.md      # Project documentation
 ```
-````
 
 ## 🛠️ Built With
 
@@ -30,9 +27,9 @@ Button-Animation/
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/your-username/button-animation
-````
+```bash
+   git clone https://github.com/Krushna-Chandra/Button-animation.git
+```
 
 2. Open `index.html` in your browser.
 
@@ -53,4 +50,3 @@ Button-Animation/
 
 * GitHub: [Krushna-Chandra](https://github.com/Krushna-Chandra)
 * LinkedIn: [Krushna Chandra Bindhani](https://www.linkedin.com/in/krushna-chandra-bindhani-1b1342275)
-```
